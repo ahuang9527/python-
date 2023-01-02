@@ -11,7 +11,7 @@ from fake_useragent import UserAgent
 爬取的内容为链家上最新发布的北京二手房相关信息
 '''
 
-#创建类
+# 创建类
 
 class LianjiaSpider(object):
     #初始化构造方法
