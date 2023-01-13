@@ -33,6 +33,7 @@ start为开始长度，控制页面的加载，规律为(n-1)*20
 '''
 
 
+
 class DoubanSpider(object):
     def __init__(self):
         #要查询数据的url，调用时直接拼接params参数查询
